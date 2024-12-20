@@ -84,6 +84,7 @@ body {
     background: #007bff;
     color: #fff;
     border-color: #007bff;
+    border: 4px solid #f54f1d;
   }
   
   .number.locked {
